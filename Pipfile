@@ -8,6 +8,7 @@ ipykernel = "*"
 numpy = "*"
 matplotlib = "*"
 pillow = "*"
+shapely = "*"
 
 [dev-packages]
 
